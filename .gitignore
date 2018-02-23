@@ -57,3 +57,11 @@ typings/
 # dotenv environment variables file
 .env
 
+# test directory
+./test/intact_noExpansion.mitab_top10000.json
+./test/intact_noExpansion.mitab_top100000.json
+./test/intact_noExpansion.mitab.json
+./test/.DS_Store
+
+# MacOS
+.DS_Store

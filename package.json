@@ -1,0 +1,33 @@
+{
+  "name": "mi-couchdb",
+  "version": "1.0.0",
+  "description": "Insert huge amount of splitted data inside couchDB (bulk)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vreymond/Mi-CouchDB.git"
+  },
+  "keywords": [
+    "couch",
+    "couchDB",
+    "bulk",
+    "nano",
+    "async"
+  ],
+  "author": "Valentin Reymond",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vreymond/Mi-CouchDB/issues"
+  },
+  "homepage": "https://github.com/vreymond/Mi-CouchDB#readme",
+  "dependencies": {
+    "async": "^2.6.0",
+    "commander": "^2.14.1",
+    "jsonfile": "^4.0.0",
+    "nano": "^6.4.2",
+    "uuid": "^3.2.1"
+  }
+}
